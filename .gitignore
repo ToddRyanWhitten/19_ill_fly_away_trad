@@ -1,0 +1,11 @@
+# REAPER peak and waveform caches
+*.reapeaks
+
+# Backup and auto-save files
+*.rpp-bak
+*.rpp-bak.*
+*.rpp-undo
+
+# OS metadata
+.DS_Store
+Thumbs.db
